@@ -1,0 +1,8 @@
+{
+  "name": "Sample-Application",
+  "version": "1.0.0",
+  "author": {
+    "name": "Anand"
+  },
+  "description": "A sample folder to test package.json creation manually"
+}
